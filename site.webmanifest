@@ -1,0 +1,29 @@
+{
+	"name" : "Cyber Homies — Creative Web Developers",
+	"short_name" : "Cyber Homies",
+	"description" : "KodeGo W18 Group 4 Mini-Project 2",
+	"icons" : [
+		{
+			"src" : "site.webicon.svg",
+			"type" : "image/svg+xml",
+			"sizes" : "512x512",
+			"purpose" : "any"
+		}
+	],
+	"shortcuts" : [
+		{
+			"name" : "Know Us",
+			"url" : "about.html"
+		},
+		{
+			"name" : "Our Works",
+			"url" : "projects.html"
+		},
+		{
+			"name" : "Get in Touch",
+			"url" : "contact.html"
+		}
+	],
+	"display" : "browser",
+	"categories" : "business"
+}

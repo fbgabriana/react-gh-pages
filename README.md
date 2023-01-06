@@ -1,3 +1,3 @@
 # React GH Pages
 
-A test repository for learning React.js
+A test repository for deploying React projects
